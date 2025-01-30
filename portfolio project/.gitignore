@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 Dataset
+xgb_model.pkl
 # C extensions
 *.so
 
