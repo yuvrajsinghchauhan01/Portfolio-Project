@@ -21,7 +21,7 @@ with open('scaler.pkl', 'rb') as f:
     scaler = pickle.load(f)
 with open('pca.pkl', 'rb') as f:
     pca = pickle.load(f)
-with open('xgb_model.pkl', 'rb') as f:
+with open('model.pkl', 'rb') as f:
     model = pickle.load(f)
 with open('feature_columns.pkl', 'rb') as f:
     feature_columns = pickle.load(f)
