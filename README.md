@@ -13,14 +13,14 @@ The **Project Approval Predictor** is a Flask-based web application that predict
 ## Tech Stack
 - **Backend**: Flask (Python)
 - **Machine Learning Model**: XGBoost
-- **Frontend**: HTML, CSS (Bootstrap)
+- **Frontend**: HTML, CSS 
 - **Data Processing**: Pandas, Scikit-learn
 
 ## Installation
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/project-approval-predictor.git
-cd project-approval-predictor
+git clone https://github.com/yuvrajsinghchauhan01/Portfolio-Project.git
+cd portfolio project
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
